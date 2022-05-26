@@ -1,1 +1,1 @@
-# MLP
+Second semester made me face Artificial Intelligence. This class ended with a project I made, using the Multilayer Perceptron in Python. I made a classification algorithm that would calculate the success rate of the prediction. I split the data set into train and test and the program would return the accuracy percentage with a precision of 4 decimals.
